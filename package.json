@@ -4,13 +4,14 @@
   "description": "A simple Vue3 + TypeScript components library",
   "main": "index.js",
   "scripts": {
-    "dev" : "pnpm -C examples dev"
+    "dev": "pnpm -C examples dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@vue/tsconfig": "^0.4.0",
+    "sass": "^1.80.6",
     "typescript": "^5.1.6"
   },
   "dependencies": {
