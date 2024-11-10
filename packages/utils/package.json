@@ -1,0 +1,11 @@
+{
+  "name": "@hankei-design/utils",
+  "version": "1.0.0",
+  "description": "this is utils for hankei-design",
+  "main": "index.ts",
+  "types": "types.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

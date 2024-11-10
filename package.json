@@ -1,0 +1,22 @@
+{
+  "name": "hankei-design",
+  "version": "1.0.0",
+  "description": "A simple Vue3 + TypeScript components library",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "pnpm -C examples dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/tsconfig": "^0.4.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@hankei-design/components": "workspace:^",
+    "@hankei-design/theme-chalk": "workspace:^",
+    "@hankei-design/utils": "workspace:^",
+    "vue": "^3.3.4"
+  }
+}
